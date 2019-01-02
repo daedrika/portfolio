@@ -5,7 +5,7 @@ copyright = "&copy; Dylan Cooper 2019. Made with Hugo, using the Allegiant theme
 canonifyurls = true
 
 [params]
-    bio = "Hi there! My name is Dylan Cooper and I'm graduating from the University of Virginia in the spring of 2019. I'm currently searching for a Software Engineering position, with experience in C++ and Python. When I'm not coding, I'm composing and performing music, hiking, and playing video games (my favorites are Smash Bros. and Overwatch)."
+    bio = "Greetings, traveler! My name is Dylan Cooper and I'm graduating from the University of Virginia in the spring of 2019. I'm currently searching for a Software Engineering position, with experience in C++ and Python. When I'm not coding, I'm composing and performing music, hiking, and playing video games (my favorites are Smash Bros., Overwatch, and The Elder Scrolls games)."
     github = "http://github.com/daedrika/"
     linkedin = "https://www.linkedin.com/in/dylan-cooper-b439b113a/"
-    footer_1 = "Replace with contact shortcode."
+    footer_1 = "Email: dtc4zv@virginia.edu"
