@@ -4,7 +4,7 @@ date: 2019-01-02T16:04:28-05:00
 draft: false
 ---
 ## Internet scale applications
-For my fall semester in 2018, I took a course entitled <a href="https://github.com/thomaspinckney3/cs4501/">Internet Scale Applications</a>. As you might be able to guess, it was a survey of various techniques that software development teams use to build applications that can serve millions (or billions) of users via the internet. For instance, the professor introduced the concept of multi-tiered architectures, NoSQL databases,
+For my fall semester in 2018, I took a course entitled <a href="https://github.com/thomaspinckney3/cs4501/">Internet Scale Applications</a>. As you might be able to guess, it was a survey of various techniques that software development teams use to build applications that can serve millions (or billions) of users via the internet. For instance, the professor introduced the concept of multi-tiered architectures, NoSQL databases, and microservices.
 
 In order to test our knowledge of the material, we were instructed to build a team of three people and develop a marketplace webapp that would employ a set of techniques we learned in class. Two of our members, including myself, happened to be musicians, therefore when we searched around for inspiration we came across the idea of a _sample pack distribution service_.
 
